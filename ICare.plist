@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.com.cucsi.GuanAi.ios8fix</string>
+				<string>cn.com.cucsi.GuanAi.ios81fix</string>
 				<key>bundle-version</key>
 				<string>0.0.0.49</string>
 				<key>kind</key>
